@@ -1,3 +1,9 @@
+---
+description: >-
+  Writeup to help you how to solve Geolocating Images Room on
+  Tryhackme...awesome platform by the way.
+---
+
 # Geolocating Images
 
 ## \[Task 1\] Getting Started

@@ -10,7 +10,7 @@ Don't use Google Reverse, trust me and trust the creator, [Yandex](https://yande
 
 Let's use Yandex's Image Reverse and see what we got.
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 Notice that we get very interesting info, first we have a reference to Karaway if we Google that \(Yes, I know that I said, don't use Google, that only applies for reverse image, no normal searches xD\) we find out that Karamay is a City located in China, and if you look well, our last result also points to Chine so that's the Answer China.
 
@@ -29,11 +29,11 @@ What do we can see on this image? Names Streets, we could try with "Sports Corne
 
 If we search bot Names Streets we can obtain the exact place where these streets get cross each other, the streets that we are looking for are in Chicago.
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 At this point we can use Street View also.
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 We can see the exact place photographed, but remember the answer is not the place that appears in the photograph, it is the place from where the photograph was taken. Navigate a bit with the Street View, change your perspective and you will get the answer.
 
@@ -45,7 +45,7 @@ Just like Task 3 read, read very carefully and take notes of all the new techniq
 
 I have to say that this one was the most difficult for me but I like it. A special thanks to [Juss2](https://tryhackme.com/p/Juss2) because thanks to him I was able to find the place.
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 Let's try to mark some points of reference so, What do see here?
 
@@ -59,7 +59,7 @@ So, what can we do with this? First let's try to guess the place where this imag
 
 By our previous analysis we know a couple of things. We know that there are three near the place so it should be like a park, we also know that this place is located near the river, with this information we can mark an area to study and snoop around \(I used Satelital view for this\).
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 After a couple of minutes snooping around and with a little of lucky I found this.
 
@@ -79,7 +79,24 @@ sdasdasd
 
 ## \[Task 7\] Your turn, what can you see?
 
-As Always
+As always,What can see on this one? Well, we have tremendous infomation:
+
+* Marks on the road
+* It's a live cam
+* Those little yellows lights on crosswalks
+* Monument at the back
+* License Plate
+* Drivers on the left side of the road
+
+First lets try some searching with code on the license plate. Before Google the code lets try to reduce our search threshold. Where do people drives on the left side of the road? United Kingdom right? So I google "License Plate United Kingdom". The first result is Wikipedia, on that Wikipedia there is a section that explains how the codes on the license plates works.
+
+![](.gitbook/assets/image%20%288%29.png)
+
+If we use the code of our image London is the place so, Now that we know the city what can we do next? Let's try to use those crosswalks. I search for "crosswalks London".
+
+![](.gitbook/assets/image%20%285%29.png)
+
+The first thing I notice is that one the results contains those yellow lights on the crosswalks, but hey!!!. What's that on the left side of the capture? A woman walking on crosswalks, but look the marks on the road, they are the same ones that appear in our image, go to that result and you will get the answer.
 
 ## \[Task 8\] You're done!
 

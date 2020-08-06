@@ -12,11 +12,11 @@ Let's use Yandex's Image Reverse and see what we got.
 
 ![](.gitbook/assets/image%20%287%29.png)
 
-Notice that we get very interesting info, first we have a reference to Karaway if we Google that \(Yes, I know that I said, don't use Google, that only applies for reverse image, no normal searches xD\) we find out that Karamay is a City located in China, and if you look well, our last result also points to Chine so that's the Answer China.
+Notice our first results is Karamay, if we Google Karamay we find out that is a City and, Where is located that City? \(I mean the country\). There you go that's your answer. 
 
 ## \[Task 3\] Geolocating Images 101
 
-Just read, analyze and keep in mind all the techiniques and the logic used by the author.
+Just read, analyze and keep in mind all the techniques and the logic used by the author.
 
 #### \[Task 4\] Now your turn
 
@@ -57,7 +57,7 @@ Let's try to mark some points of reference so, What do see here?
 
 So, what can we do with this? First let's try to guess the place where this image was taken.
 
-By our previous analysis we know a couple of things. We know that there are three near the place so it should be like a park, we also know that this place is located near the river, with this information we can mark an area to study and snoop around \(I used Satelital view for this\).
+By our previous analysis we know a couple of things. We know that there are three near the place so it should be like a park, we also know that this place is located near the river, with this information we can mark an area to study and snoop around \(I used Satellite view for this\).
 
 ![](.gitbook/assets/image%20%2811%29.png)
 
@@ -72,10 +72,6 @@ All these constructions must be facilities of the Observatory, if we google "Par
 ![](.gitbook/assets/image.png)
 
  The shape of that building, just look for the Facility where this tower is located and you will get the Answer.
-
-{% hint style="warning" %}
-sdasdasd
-{% endhint %}
 
 ## \[Task 7\] Your turn, what can you see?
 
